@@ -1,4 +1,8 @@
 # SemiGlobalMatching
+本文转自[ethan-li-coding](https://github.com/ethan-li-coding)的库[SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching)，一切权利归作者所有
+<br>
+实现了linux系统下的运行，在编译前，请安装opencv，VTK, QT5还有Eigen3。
+<br>
 SGM，立体匹配最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学，欢迎star！
 
 <table>
